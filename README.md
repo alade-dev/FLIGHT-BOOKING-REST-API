@@ -7,3 +7,5 @@
      "price": 26000,
      "date": "26-06-2022"
   }
+  
+3. Postman was used for the requests
